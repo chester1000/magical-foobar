@@ -1,0 +1,12 @@
+{
+  "name": "bar",
+  "version": "0.0.1",
+  "description": "The bar part of foobar",
+  "main": "main.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "author": "Damian Mee <mee.damian@gmail.com> (https://meedamian.com)",
+  "license": "MIT"
+}
