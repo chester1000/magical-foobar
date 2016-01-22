@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 'use strict';
 
-require('./main.js')(console.log, '');
+require('./main.js')(console.log);

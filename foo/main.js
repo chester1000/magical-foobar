@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = exports = function(log, bar) {
-  log('foo' + bar);
+module.exports = exports = function(log) {
+  require('@meedamian/bar')(log);
 };

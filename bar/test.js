@@ -7,4 +7,4 @@ function testValue(val) {
   console.log('ok');
 }
 
-require('./main.js')(testValue, '');
+require('./main.js')(testValue);
