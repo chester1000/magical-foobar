@@ -1,6 +1,6 @@
 {
   "name": "@meedamian/foo",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "The foo part of foobar",
   "main": "main.js",
   "bin": "index.js",
@@ -10,6 +10,6 @@
   "author": "Damian Mee <mee.damian@gmail.com> (https://meedamian.com)",
   "license": "MIT",
   "dependencies": {
-    "@meedamian/bar": "0.0.1"
+    "@meedamian/bar": "0.0.2"
   }
 }
