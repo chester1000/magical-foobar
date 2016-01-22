@@ -1,5 +1,5 @@
 {
-  "name": "bar",
+  "name": "@meedamian/bar",
   "version": "0.0.1",
   "description": "The bar part of foobar",
   "main": "main.js",
@@ -8,5 +8,8 @@
     "test": "./test.js"
   },
   "author": "Damian Mee <mee.damian@gmail.com> (https://meedamian.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@meedamian/foo": "0.0.0"
+  }
 }
